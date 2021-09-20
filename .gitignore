@@ -5,3 +5,5 @@ logs/*
 
 !data/.keep
 !logs/.keep
+
+__*__
